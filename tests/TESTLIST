@@ -864,3 +864,7 @@ unsupported-link-type-dbus unsupported-link-type-dbus.pcap unsupported-link-type
 
 # LSP Ping
 lsp-ping-timestamp	lsp-ping-timestamp.pcap		lsp-ping-timestamp.out	-vv
+
+# netlink tests
+netlink-1	netlink-1.pcap	netlink-1.out
+netlink-1-v	netlink-1.pcap	netlink-1-v.out	-v
